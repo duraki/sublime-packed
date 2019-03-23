@@ -5,10 +5,9 @@
   
 <p align="center"><b>Ultra dark user interface for Sublime Text 3.**</b></p>
   
-<p align="center"><a href="https://github.com/duraki/sublime-packed">[github]</a>, <a href="https://duraki.github.io/packed">[website]</a>), <a href="https://duraki.github.io/packed/screenshot/out/index.html">[screenshots]</a></p>
+<p align="center"><a href="https://github.com/duraki/sublime-packed">[github]</a>, <a href="https://duraki.github.io/packed">[website]</a>, <a href="https://duraki.github.io/packed/screenshot/out/index.html">[screenshots]</a></p>
   
-Fully featured Sublime Text 3 color scheme and UI theme in hackish, digital 
-and sick form. Inspired by Vim, Emacs, [irssi weed-theme](https://github.com/ronilaukkarinen/weed).
+Fully featured Sublime Text 3 UI redesign. Custom theme & color scheme. In hackish, digital and sick form. Inspired by Vim, Emacs, [irssi](https://github.com/ronilaukkarinen/weed) and alike.
   
 Parent hierarchy:  
   * **Icon set**: [FileIcons](https://github.com/braver/FileIcons) + custom icons
