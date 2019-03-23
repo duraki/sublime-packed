@@ -1,0 +1,20 @@
+<ul id="galleries">
+  {{#each album.albums as |alb index|}}
+  <li class="singleAlbum">
+    <h1 class="gallery-link-title">{{title}} @ <a class="gallery-link" href="{{relative url}}">{{relative url}}</a></h1>
+    <ul class="grid">
+      <ul id="media">
+      {{#each alb.files as |img|}}
+        {{> thumbnail}}
+      {{/each}}
+      </ul>
+    </ul>
+  </li>
+  {{/each}}
+</ul>
+
+<ul id="media">
+  {{#each album.files}}
+    {{> thumbnail}}
+  {{/each}}
+</ul>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang=en>
+    <head>
+        <meta charset=utf-8>
+        <meta name="viewport" content="width=device-width, user-scalable=no" />
+        <title>{{gallery.title}} - {{album.title}}</title>
+        <link rel="stylesheet" href="{{relative '../../css/bundle.css'}}" />
+    </head>
+    <body onload="" class="skinny">
+        <h1 style="background: #191919;color: #cccccc;font-weight: 100;">Screenshots</h1>
+        <p align="center">This page is showcase for <b>Packed</b>. Screenshots of Packed running out-of-the box. The host machine is MacOS with latest XNU//sys. The project <code>rapid7/metasploit</code> <a href="https://github.com/rapid7/metasploit-framework">[1]</a> was used as a <i>&lt;display code&gt;</i>.</p>
+        <div class="attention">
+            <p style="font-size: large">
+                <a href="../../index.html">Home</a> |
+                <a href="https://github.com/duraki/sublime-packed/README.md">Docs</a>
+            </p>
+        </div>
+
+        {{> content}}
+
+        <div class="attention">
+            <p align="center">Send us your dotfiles, screenshots or <a href="https://github.com/duraki/sublime-packed/fork">fork</a>, to be featured <i>here</i>.</p>
+        </div>
+
+
+        {{> footer}}
+        <!-- jQuery -->
+        <script src="{{relative 'public/jquery.min.js'}}"></script>
+    </body>
+</html>
