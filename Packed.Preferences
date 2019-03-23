@@ -1,0 +1,29 @@
+{
+
+  /* Packed UI Setters */
+  "bold_folder_labels": true,
+  "draw_white_space": "all",
+  "expand_tabs": true,
+  "fade_fold_buttons": false,
+  "font_face": "tewi",
+  "font_options":
+  [
+    "gray_antialias",
+    "subpixel_antialias"
+  ],
+  "font_size": 11,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "indent_guide_options":
+  [
+    "draw_normal",
+    "draw_active"
+  ],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "rulers":
+  [
+    80
+  ]
+
+}
