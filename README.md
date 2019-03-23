@@ -1,11 +1,11 @@
 # Packed
 ![tag](https://img.shields.io/github/tag-date/duraki/sublime-packed.svg) ![repo size](https://img.shields.io/github/repo-size/duraki/sublime-packed.svg?style=flat-square) ![issues](https://img.shields.io/github/issues-closed/duraki/sublime-packed.svg?style=flat-square) ![pkgctrl](https://img.shields.io/packagecontrol/dt/Packed.svg?style=flat-square) ![license](https://img.shields.io/github/license/duraki/sublime-packed.svg?style=flat-square)
   
-<p align="center">![landing](docs/screenshot/sublime-packed-fresh.png)</p>
+<p align="center"><img src="docs/screenshot/sublime-packed-fresh.png" alt="sublime-packed" /></p>
   
-<p align="center">**Ultra dark user interface for Sublime Text 3.**</p>
+<p align="center"><b>Ultra dark user interface for Sublime Text 3.**</b></p>
   
-<p align="center">[github](https://github.com/duraki/sublime-packed), [website](https://duraki.github.io/packed), [jump to screenshots](https://duraki.github.io/packed/screenshot/out/index.html) 
+<p align="center"><a href="https://github.com/duraki/sublime-packed">[github]</a>, <a href="https://duraki.github.io/packed">[website]</a>), <a href="https://duraki.github.io/packed/screenshot/out/index.html">[screenshots]</a></p>
   
 Fully featured Sublime Text 3 color scheme and UI theme in hackish, digital 
 and sick form. Inspired by Vim, Emacs, [irssi weed-theme](https://github.com/ronilaukkarinen/weed).
@@ -39,7 +39,7 @@ Since switching to ST3, I've spent time searching for config that will support a
 | looks slick out-of-the box | ???                                         |
 | 30x productivity increase  | ???                                         |
   
-New features:  
+**New features**:  
   * Unique, Vim-like user interface  
   * Max compact view, forced minimal dimensions on UI elements  
   * New color scheme, easy on your eyes  
@@ -107,24 +107,24 @@ User"` in command palette).
   
 <h6 align='center'>Out-of-the box <code>Packed</code> interface</h6>
 
-![Packed Clean](docs/screenshot/img/clean.png)
+![Packed Clean](docs/screenshot/img/2-clean.png)
 
 <h6 align='center'>Side-by-side <code>Packed</code> views</h6>
 
-![Packed](docs/screenshot/img/side-by-side.png)
+![Packed](docs/screenshot/img/3-side-by-side.png)
 
 See more showreel at [screenshot page](https://duraki.github.io/packed/screenshot/out/index.html).
 
 ## Say Hi!
   
 #### to project:
-  * name: Packed
+  * packagescontrol: http://packagecontrol.io/Packed 
   * repository: https://github.com/duraki/sublime-packed
   * website: https://duraki.github.io/packed
   
 #### to author:
   
-Halis Duraki <duraki@linuxmail.org>, [Twitter](https://twitter.com/0xduraki), [GitHub](https://github.com/duraki), [Blog](https://duraki.github.io)
+  * Halis Duraki <duraki@linuxmail.org>, [Twitter](https://twitter.com/0xduraki), [GitHub](https://github.com/duraki), [Blog](https://duraki.github.io)
   
 #### to wallet:
   
