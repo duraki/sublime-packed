@@ -45,7 +45,7 @@ SOFTWARE.
         <key>lineHighlight</key>
         <string>#3D3D3D55</string>
         <key>selection</key>
-        <string>#515151</string>
+        <string>#CC3565</string>
       </dict>
     </dict>
     <dict>
@@ -478,7 +478,7 @@ SOFTWARE.
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#d0d0d0</string>
+        <string>#EB8D8D</string>
       </dict>
     </dict>
     <dict>

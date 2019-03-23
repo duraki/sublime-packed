@@ -20,11 +20,11 @@
         "orange": "#fab85a",
         "orange2": "#ff8942",
         "orange3": "#fc9354",
-        "orange4": "#fdb082",
+        "orange4": "#EB8D8D",
         "orange5": "#fbdfb5",
         "orange6": "#ff9664",
         "orange7": "#ffd2a6",
-        "pink": "#e5a5e0",
+        "pink": "#CC3565",
         "pink2": "#cd5ac5",
         "pink3": "#ffb2f9",
         "purple": "#d699ff",
@@ -52,7 +52,7 @@
         "caret": "var(white5)",
         "invisibles": "var(grey)",
         "line_highlight": "color(var(grey3) alpha(0.33))",
-        "selection": "var(grey4)"
+        "selection": "var(pink)"
     },
     "rules":
     [
@@ -244,7 +244,7 @@
         {
             "name": "Text",
             "scope": "variable.parameter.function",
-            "foreground": "var(grey7)"
+            "foreground": "var(orange4)"
         },
         {
             "name": "Attribute IDs",
