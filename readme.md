@@ -70,7 +70,8 @@ patches to older versions!
 1. Make sure you already have [Package Control](https://packagecontrol.io/installation) installed.
 2. Choose Install Package from the Command Palette (via `Tools > Coomand Palette` from the main menu).
 3. Select **`Packed`** and press <kbd>Enter</kbd>.
-
+4. Latest official release requests at [wband/package_control_channel](https://github.com/wbond/package_control_channel/pull/7521)
+  
 ### or Manual Installation
 
 1. Download or clone the desired **`sublime-packed`** repository.
