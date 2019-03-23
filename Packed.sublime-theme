@@ -1,4 +1,11 @@
 [
+// Windows - title bar
+{
+  "class": "title_bar",
+  "fg": [215, 218, 224],
+  "bg": [33, 33, 33]
+},
+
     {
         "class": "icon_folder",
         "layer0.texture": "Theme - Default/icons/folder.png",
@@ -18,13 +25,13 @@
         "tab_overlap": 1,
         "tab_width": 5,
         "tab_min_width": 0,
-        "tab_height": 15,
+        "tab_height": 12,
         "mouse_wheel_switch": false
     },
     {
         "class": "tabset_control",
         "settings": ["mouse_wheel_switches_tabs"],
-        "mouse_wheel_switch": true
+        "mouse_wheel_switch": false
     },
     // Tab element
     {
@@ -67,28 +74,34 @@
     {
         "class": "tab_label",
         "fade": true,
-        "fg": [215,215,215],
-        "shadow_offset": 1
+        "shadow_offset": 0,
+        "fg": [101,101,101],
+        "color": [60,60,60],
+        "shadow_color": [0,0,0],
+        "shadow_offset": [0,0],
+        "font.size": 11,
+        "font.face": "tewi"
     },
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control","attributes": ["dirty"]}],
         "fade": true,
         "fg": [255,255,255],
-        "shadow_offset": 1
+        "shadow_offset": 0
     },
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control","attributes": ["hover"]}],
         "fg": [180,180,180],
-        "shadow_offset": 1
+        "shadow_offset": 0
     },
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control","attributes": ["selected"]}],
         "fg": [255,255,255],
+        "color": [20, 20, 20],
         "shadow_color": [0,0,0],
-        "shadow_offset": 1
+        "shadow_offset": 0
     },
 //
 // FOLD BUTTONS
@@ -349,7 +362,7 @@
         "shadow_color": [0,0,0],
         "shadow_offset": [0,1],
         "font.size": 12,
-        "font.face": "Droid Sans Mono"
+        "font.face": "tewi"
     },
     // Sidebar heading selected
     {
@@ -363,7 +376,7 @@
         "shadow_offset": 0,
         "font.bold": false,
         "font.size": 11,
-        "font.face": "Droid Sans Mono"
+        "font.face": "tewi"
     },
     {
         "class": "sidebar_label",
