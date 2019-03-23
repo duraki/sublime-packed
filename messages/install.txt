@@ -1,0 +1,72 @@
+Packed
+- A Vim-like interface for Sublime Text 3!
+
+Thanks for installing "Packed". Your new user interface and color scheme that
+looks slick and dark!
+
+For more information on the Packed: https://github.com/duraki/sublime-packed
+
+**********************************************************************************************
+
+To install, open preferences and change the color scheme and theme lines:
+
+  "color_scheme": "Packages/Packed/Packed.tmTheme",
+  "theme": "Packages/Packed/Packed.sublime-theme",
+
+Done!
+
+**********************************************************************************************
+
+Configuration:
+
+Additional recommended UI configuration for your `*.Preferences`:
+
+  ...
+  "bold_folder_labels": true,
+  "draw_white_space": "all",
+  "expand_tabs": true,
+  "fade_fold_buttons": false,
+  "font_face": "tewi",
+  "font_options":
+    [
+      "gray_antialias",
+      "subpixel_antialias"
+    ],
+  "font_size": 11,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "indent_guide_options":
+    [
+      "draw_normal",
+      "draw_active"
+    ],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "rulers":
+    [
+      80
+    ],
+  ...
+
+**********************************************************************************************
+
+See additional options and get iTerm colors at: https://github.com/duraki/sublime-packed
+
+Designed and developed by Halis Duraki (c) 2019 - Packed, Sublime-Packed
+
+Project URL: https://duraki.github.io/packed
+Project SVN: https://github.com/duraki/sublime-packed
+
+Donate:
+
+- Bitcoin: 14nEUXKgxovKNBwMR25UA6UQs79UFygzDG
+- Bitcoin Cash: qptsv80vxj9tnesvd0yuqyrnfufc9xjvusnv389ywj
+- Ethereum: 0xD1c72EA0b860b65c3fDfc6945ec1D2761eDa5785
+- PayPal: hadr.pz@gmail.com
+
+... or
+
+Send greetings:
+
+- duraki@linuxmail.org (for mail exchange; for support and issues use GitHub)
+- https://twitter.com/0xduraki (on Twitter)

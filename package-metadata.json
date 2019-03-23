@@ -1,0 +1,10 @@
+{
+  "description": "Packed - A Vim-like Sublime Text 3 interface",
+  "sublime_text": "*",
+  "version": "0.0.1",
+  "url": "https://github.com/duraki/sublime-packed",
+  "platforms": [
+    "*"
+  ],
+  "dependencies": []
+}
