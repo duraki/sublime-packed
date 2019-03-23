@@ -5,7 +5,7 @@
   
 <p align="center"><b>Ultra dark user interface for Sublime Text 3.**</b></p>
   
-<p align="center"><a href="https://github.com/duraki/sublime-packed">[github]</a>, <a href="https://duraki.github.io/packed">[website]</a>, <a href="https://duraki.github.io/packed/screenshot/out/index.html">[screenshots]</a></p>
+<p align="center"><a href="https://github.com/duraki/sublime-packed">[github]</a>, <a href="https://duraki.github.io/packed">[website]</a>, <a href="https://duraki.github.io/sublime-packed/screenshot/out/index.html">[screenshots]</a></p>
   
 Fully featured Sublime Text 3 UI redesign. Custom theme & color scheme. In hackish, digital and sick form. Inspired by Vim, Emacs, [irssi](https://github.com/ronilaukkarinen/weed) and alike.
   
@@ -104,15 +104,15 @@ User"` in command palette).
 
 ## Screenshots
   
-<h6 align='center'>Out-of-the box <code>Packed</code> interface</h6>
+<h6 align='center'>Out-of-the box <code>Packed</code> style</h6>
 
-![Packed Clean](docs/screenshot/img/2-clean.png)
+![Packed Clean](docs/screenshot/upload/0_x.scrot/2-clean.png)
 
-<h6 align='center'>Side-by-side <code>Packed</code> views</h6>
+<h6 align='center'>Side-by-side view</h6>
 
-![Packed](docs/screenshot/img/3-side-by-side.png)
+![Packed](docs/screenshot/upload/0_x.scrot/3-side-by-side.png)
 
-See more showreel at [screenshot page](https://duraki.github.io/packed/screenshot/out/index.html).
+See more showreel at [screenshot page](https://duraki.github.io/sublime-packed/screenshot/out/).
 
 ## Say Hi!
   
