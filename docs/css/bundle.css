@@ -53,7 +53,9 @@ body {
 
 /* Inline code */
 code {
-  color: green;
+    color: #cccccc;
+    background: #191919;
+    font-size: 16px;
 }
 
 blockquote {
@@ -99,9 +101,53 @@ pre {
 
 .attention {
     text-align: center;
-    background-color: #191919;
+    background-color: #212121;
     padding: 0.5em;
     color: #d49898;
+}
+
+.gallery-link {
+  text-decoration: none;
+  color: #dc1c87;
+  font-size: 12px;
+  font-family: monospace;
+}
+
+.gallery-link:visited {
+  color: #dc1c87;
+  font-size: 12px;
+  font-family: monospace;
+}
+
+.gallery-link-title {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: monospace;
+  background: #191919;
+  color: #716d6d;
+  font-size:12px;
+  font-weight: 100;
+}
+
+.gallery-link-title:hover {
+  color: white;
+}
+
+#galleries {
+  padding: 0;
+}
+
+.singleThumb {
+  list-style-type: none;
+}
+
+.grid {
+  display: block;
+  padding: 0;
+}
+
+.singleAlbum {
+  list-style-type: none;
 }
 
 /* anchors in cross-ref.html */

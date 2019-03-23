@@ -1,0 +1,12 @@
+{
+  "input": "./screenshot/upload/",
+  "output": "./screenshot/out/",
+  "title": "packed - Sublime Text 3 UI, gallery showcase",
+  "thumb-size": 200,
+  "large-size": 1500,
+  "download-photos": "copy",
+  "sort-albums-by": "title",
+  "sort-media-by": "filename",
+  "theme-path": "./screenshot/thumbsup-theme",
+  "css": "./css/bundle.css"
+}
