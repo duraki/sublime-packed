@@ -1,10 +1,11 @@
 # Packed
 ![tag](https://img.shields.io/github/tag-date/duraki/sublime-packed.svg) ![repo size](https://img.shields.io/github/repo-size/duraki/sublime-packed.svg?style=flat-square) ![issues](https://img.shields.io/github/issues-closed/duraki/sublime-packed.svg?style=flat-square) ![pkgctrl](https://img.shields.io/packagecontrol/dt/Packed.svg?style=flat-square) ![license](https://img.shields.io/github/license/duraki/sublime-packed.svg?style=flat-square)
   
-![landing](docs/screenshot/sublime-packed-fresh.png)
---
+<p align="center">![landing](docs/screenshot/sublime-packed-fresh.png)</p>
   
-Ultra dark user interface for Sublime Text 3.
+<p align="center">**Ultra dark user interface for Sublime Text 3.**</p>
+  
+<p align="center">[github](https://github.com/duraki/sublime-packed), [website](https://duraki.github.io/packed), [jump to screenshots](https://duraki.github.io/packed/screenshot/out/index.html) 
   
 Fully featured Sublime Text 3 color scheme and UI theme in hackish, digital 
 and sick form. Inspired by Vim, Emacs, [irssi weed-theme](https://github.com/ronilaukkarinen/weed).
@@ -106,36 +107,32 @@ User"` in command palette).
   
 <h6 align='center'>Out-of-the box <code>Packed</code> interface</h6>
 
-![Packed Clean](docs/screenshot/clean.png)
+![Packed Clean](docs/screenshot/img/clean.png)
 
 <h6 align='center'>Side-by-side <code>Packed</code> views</h6>
 
-![Packed](docs/screenshot/side-by-side.png)
+![Packed](docs/screenshot/img/side-by-side.png)
+
+See more showreel at [screenshot page](https://duraki.github.io/packed/screenshot/out/index.html).
 
 ## Say Hi!
   
-to project:
+#### to project:
+  * name: Packed
+  * repository: https://github.com/duraki/sublime-packed
+  * website: https://duraki.github.io/packed
   
-| Info       | Reference                                |
-|:-----------|:-----------------------------------------|
-| Name       | Packed                                   |
-| Repository | https://github.com/duraki/sublime-packed |
-| Website    | https://duraki.github.io/packed          |
+#### to author:
   
-to author:
+Halis Duraki <duraki@linuxmail.org>, [Twitter](https://twitter.com/0xduraki), [GitHub](https://github.com/duraki), [Blog](https://duraki.github.io)
   
-Halis Duraki <duraki@linuxmail.org> 2019, [Twitter](https://twitter.com/0xduraki), [GitHub](https://github.com/duraki), [Blog](https://duraki.github.io)
+#### to wallet:
   
-to wallet:
+  * btc: 14nEUXKgxovKNBwMR25UA6UQs79UFygzDG
+  * btc cash: qptsv80vxj9tnesvd0yuqyrnfufc9xjvusnv389ywj
+  * eth: 0xD1c72EA0b860b65c3fDfc6945ec1D2761eDa5785
+  * paypal: [Link](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QBAS2NTRDT6B4&source=url)
   
-| Service      | Wallet                                                                                                                   |
-|:-------------|:-------------------------------------------------------------------------------------------------------------------------|
-| Bitcoin      | 14nEUXKgxovKNBwMR25UA6UQs79UFygzDG                                                                                       |
-| Bitcoin Cash | qptsv80vxj9tnesvd0yuqyrnfufc9xjvusnv389ywj                                                                               |
-| Ethereum     | 0xD1c72EA0b860b65c3fDfc6945ec1D2761eDa5785                                                                               |
-| PayPal       | hadr.pz@gmail.com, [Link](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QBAS2NTRDT6B4&source=url) |
-  
-
 ## LICENSE ##
 
 Copyright (c) 2019 `duraki/sublime-packed`, MIT 
