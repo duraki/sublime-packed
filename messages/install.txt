@@ -8,7 +8,11 @@ For more information on the Packed: https://github.com/duraki/sublime-packed
 
 **********************************************************************************************
 
-To install, open preferences and change the color scheme and theme lines:
+To install fonts, use:
+  - **MacOS / OSX**: `cp ttf/tewi.ttf ~/Library/Fonts/`
+  - **GNU / Linux**: `cp ttf/tewi.ttf ~/.fonts/ && fc-cache -f`
+
+To complete installation, activate the UI. Open preferences and change the color scheme and theme lines:
 
   "color_scheme": "Packages/Packed/Packed.tmTheme",
   "theme": "Packages/Packed/Packed.sublime-theme",
@@ -52,10 +56,11 @@ Additional recommended UI configuration for your `*.Preferences`:
 
 See additional options and get iTerm colors at: https://github.com/duraki/sublime-packed
 
-Designed and developed by Halis Duraki (c) 2019 - Packed, Sublime-Packed
+Designed and developed by Halis Duraki (c) 2019 - **Packed**, `sublime-packed`
 
 Project URL: https://duraki.github.io/packed
 Project SVN: https://github.com/duraki/sublime-packed
+PackageControl: https://packagecontrol.io/packages/Package
 
 Donate:
 

@@ -1,7 +1,8 @@
 # Packed
+![tag](https://img.shields.io/github/tag-date/duraki/sublime-packed.svg) ![repo size](https://img.shields.io/github/repo-size/duraki/sublime-packed.svg?style=flat-square) ![build](https://img.shields.io/travis/wbond/package_control_channel/add_sublime-packed-package.svg?style=flat-square) ![pkgctrl](https://img.shields.io/packagecontrol/dt/Packed.svg?style=flat-square)  
   
 Ultra dark user interface for Sublime Text 3.
-
+  
 Fully featured Sublime Text 3 color scheme and UI theme in hackish, digital 
 and sick form. Inspired by Vim, Emacs, [irssi weed-theme](https://github.com/ronilaukkarinen/weed).
   
