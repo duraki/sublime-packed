@@ -59,6 +59,7 @@ patches to older versions!
 * `Tewi` font installed (included ttf in `/ttf/tewi.ttf`)
   - **MacOS / OSX**: `cp ttf/tewi.ttf ~/Library/Fonts/`
   - **GNU / Linux**: `cp ttf/tewi.ttf ~/.fonts/ && fc-cache -f`
+* `Devastate` & `DevastateMini` installed
   
 ## Installation
 
@@ -66,7 +67,9 @@ patches to older versions!
 
 1. Make sure you already have [Package Control](https://packagecontrol.io/installation) installed.
 2. Choose Install Package from the Command Palette (via `Tools > Coomand Palette` from the main menu).
-3. Select **`Packed`** and press <kbd>Enter</kbd>.
+2.1 Install Devastate package
+2.2 Install DevastateMini package
+3. Choose Install Package, select **`Packed`** and press <kbd>Enter</kbd>.
 4. Latest official release requests at [wband/package_control_channel](https://github.com/wbond/package_control_channel/pull/7521)
   
 ### or Manual Installation
