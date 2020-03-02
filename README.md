@@ -66,9 +66,9 @@ patches to older versions!
 ### via Package Control
 
 1. Make sure you already have [Package Control](https://packagecontrol.io/installation) installed.
-2. Choose Install Package from the Command Palette (via `Tools > Coomand Palette` from the main menu).  
-  - 2.1 Install Devastate package  
-  - 2.2 Install DevastateMini package  
+2. Choose Install Package from the Command Palette (via `Tools > Coomand Palette` from the main menu).
+  - 2.1 Install Devastate package
+  - 2.2 Install DevastateMini package
 3. Choose Install Package, select **`Packed`** and press <kbd>Enter</kbd>.
 4. Latest official release requests at [wband/package_control_channel](https://github.com/wbond/package_control_channel/pull/7521)
   
