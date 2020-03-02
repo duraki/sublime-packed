@@ -5,7 +5,7 @@
   
 <p align="center"><b>Ultra dark user interface for Sublime Text 3.</b></p>
   
-<p align="center"><a href="https://github.com/duraki/sublime-packed#installation">[install]</a>, <p align="center"><a href="https://github.com/duraki/sublime-packed">[github]</a>, <a href="https://duraki.github.io/sublime-packed">[website]</a>, <a href="https://duraki.github.io/sublime-packed/screenshot/out/index.html">[screenshots]</a></p>
+<p align="center"><a href="https://github.com/duraki/sublime-packed#installation">[install]</a>, <a href="https://github.com/duraki/sublime-packed">[github]</a>, <a href="https://duraki.github.io/sublime-packed">[website]</a>, <a href="https://duraki.github.io/sublime-packed/screenshot/out/index.html">[screenshots]</a></p>
   
 Fully featured Sublime Text 3 UI redesign. Custom theme & color scheme. In hackish, digital and sick form. Inspired by Vim, Emacs, [irssi](https://github.com/ronilaukkarinen/weed) and alike.
   
